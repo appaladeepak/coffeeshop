@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/coffee-shop-app.git
+git clone https://github.com/appaladeepak/coffee-shop-app.git
 Set up the database:
 
 Open the project in Visual Studio.
